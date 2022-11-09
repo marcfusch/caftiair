@@ -11,6 +11,11 @@ Once you have the Arduino IDE installed, you'll also need to install the ESP8266
 ## Doing the hardware modding
 You can see some examples of my mod to my " L'Or Espresso Barista " here https://marcfusch.com/projets/caftiair.html where I used basic BC547Bs transistors I had lying around.
 
+## Clone the repo
+```
+$ git clone https://github.com/marcfusch/caftiair
+```
+
 ## Modify the code and flash it!
 Open the ```  CaftiAIR.ino ``` project file. Modify the following lines:
 ```
