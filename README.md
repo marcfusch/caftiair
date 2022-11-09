@@ -16,7 +16,6 @@ Open the ```  CaftiAIR.ino ``` project file. Modify the following lines:
 ```
 const char* ssid = "CaftiAIR";       
 const char* password = "YOUR_PASSWORD"; 
-
 ```
 As well as 
 ```
