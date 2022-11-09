@@ -1,5 +1,5 @@
 # CaftiAIR
-Automate your coffee experience with a NODE MCU ESP8266
+Automate your coffee experience with a NodeMCU ESP8266
 
 ## Before proceeding
 Make sure you have a working ESP8266 and a working arduino IDE. You can download this one here:
