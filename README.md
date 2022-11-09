@@ -17,7 +17,7 @@ $ git clone https://github.com/marcfusch/caftiair
 ```
 
 ## Modify the code and flash it!
-Open the ```  CaftiAIR.ino ``` project file. Modify the following lines:
+Open the ```  CaftiAIRv1.ino ``` project file. Modify the following lines:
 ```
 const char* ssid = "CaftiAIR";       
 const char* password = "YOUR_PASSWORD"; 
